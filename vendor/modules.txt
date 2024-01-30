@@ -1,0 +1,5 @@
+# custompackage v0.1.1 => github.com/marciorcruz/mypackage v0.1.1
+## explicit; go 1.19
+custompackage/contracts/erc1155
+custompackage/contracts/erc20
+# custompackage => github.com/marciorcruz/mypackage v0.1.1
