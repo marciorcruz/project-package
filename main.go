@@ -8,4 +8,5 @@ import (
 func main() {
 	fmt.Println("Meu projeto")
 	custompackage.AbiERC()
+	custompackage.Lins("Luiz")
 }
